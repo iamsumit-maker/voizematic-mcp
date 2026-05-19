@@ -34,6 +34,8 @@ Once connected, you can have natural conversations with Claude to:
 | 🗓️ Schedule callbacks | *"Schedule a follow-up call for tomorrow at 1 PM"* |
 | 💰 Check wallet balance | *"How many credits do I have left?"* |
 
+Watch live in action : https://www.youtube.com/watch?v=jhTNfISDfWk
+
 ---
 
 ## Quickstart (5 minutes)
