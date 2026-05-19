@@ -1,6 +1,6 @@
 # 🎙️ voizematic-mcp
 
-> **World's first and only AI voice agent MCP connector.**  
+> **World's first and only AI voice agent MCP connector with features all voice ai missing.**  
 > Operate your entire Voizematic voice stack directly from Claude — no dashboard, no switching tabs, no friction.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
