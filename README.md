@@ -135,7 +135,6 @@ Claude will show you compliance results **before** every dial and block unsafe n
 |---|---|
 | Claude Desktop | ✅ Supported |
 | Claude.ai (web) | ✅ Supported |
-| Cursor | ✅ Supported |
 | Windsurf | ✅ Supported |
 | Any MCP-compatible client | ✅ Supported |
 
@@ -157,7 +156,7 @@ Claude will show you compliance results **before** every dial and block unsafe n
 - 🛡️ **World's only** 2-layer TCPA/DNC compliance engine
 - 🔗 **World's first** native Google Workspace integration
 - 🧠 Conversation memory per contact
-- ⚡ Sub-300ms latency
+- ⚡ Sub-500ms latency
 - 🇮🇳 India infrastructure — same-day deployment
 - 🎯 Custom call metrics: Goal Achieved, Resistance Level, Buying Signals, Sentiment, Drop-Off Risk
 - 🆓 Free $25 credit for US-based businesses
